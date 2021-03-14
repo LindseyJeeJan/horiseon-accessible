@@ -3,3 +3,5 @@ The code provided was refactored to include semantic html elements and labels fo
 
 Link to deployed application:
 https://lindseyjeejan.github.io/horiseon-accessible/
+
+<img src="assets/images/01-html-css-git-homework-demo" width="400">
