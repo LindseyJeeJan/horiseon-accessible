@@ -119,11 +119,11 @@ footer h2 {
     color: #ffffff;
 }
 
-.seo img  {
+.content section img  {
     max-height: 200px;
 }
 
-.seo h2  {
+.content section h2  {
     margin-bottom: 20px;
     font-size: 36px;
 }
