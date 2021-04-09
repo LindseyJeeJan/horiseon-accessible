@@ -95,7 +95,7 @@ footer h2 {
     background-color: #2589bd;
 }
 
-.benefits-container {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #fff;
 }
@@ -111,7 +111,7 @@ footer h2 {
     max-width: 150px;
 }
 
-.section-container {
+.online-reputation-management, .social-media-marketing, .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
